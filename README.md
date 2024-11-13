@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <a href="https://www.GlobalTutor.com">
   <img alt="Llama Tutor" src="./public/og-image.png">
   <h1 align="center">Llama Tutor</h1>
@@ -39,4 +39,4 @@
 =======
 # GlobalTutor
 Enter a topic you want to learn about along with the education level you want to be taught at and generate a personalized tutor tailored to you!
->>>>>>> 1b30c26c946332b77a6006653fd7cd179ff595cf
+
